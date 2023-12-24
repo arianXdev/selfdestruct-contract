@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.1",
+    "hardhat-jest": "^1.0.8",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1"
+  }
+}
